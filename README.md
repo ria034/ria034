@@ -30,7 +30,7 @@ I am open to new opportunities where I can apply my skills to solve complex and 
 
 
 
-🔗Fun fact:<br>I was a part of the team that built on Formula car. I actually worked on Brake subsystem and Powertrain design.
+🔗Interesting fact:<br>I was a part of the team that built on Formula car. I actually worked on Brake subsystem and Powertrain design.
 
 
 
@@ -40,5 +40,11 @@ I am open to new opportunities where I can apply my skills to solve complex and 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riamendes1752@gmail.com) <br>
+
+<b> Feel free to contact me<b>
+<ul>
+  <li><a href="http://www.linkedin.com/in/riamendes">LinkedIn</li>
+  <li> <a href="mailto:riamendes1752@gmail.com">Email</li>
+</ul>
 
 
