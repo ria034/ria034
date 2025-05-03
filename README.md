@@ -5,6 +5,8 @@ I am open to new opportunities where I can apply my skills to solve complex and 
 <ul>
   <li>[AutoNav](https://github.com/ria034/AutoNav-Path-Planning-and-Control-for-Autonomous-Navigation.git) : This project focuses on developing path planning algorithms </li>
 <li>[Closed Loop DC Motor Control](https://github.com/ria034/DC-Motor-Speed-and-Position-Tracking-.git)</li>
+  <li>[My Project](https://github.com/yourusername/your-repo)
+</li>
 </ul>
 
 
