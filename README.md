@@ -4,6 +4,7 @@ I am open to new opportunities where I can apply my skills to solve complex and 
 **🔗Currently working on**
 <ul>
   <li><a href=https://github.com/ria034/AutoNav-Path-Planning-and-Control-for-Autonomous-Navigation.git>AutoNav</a></li>
+  <li><a href=https://github.com/ria034/DC-Motor-Speed-and-Position-Tracking-.git>Closed Loop Control of DC Motor</a></li>
   
 </ul>
 
