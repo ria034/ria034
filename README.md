@@ -1,13 +1,15 @@
 # 💫 Hi there, I am Ria Mendes:
-**🔗About me**<br>I'm currently pursuing my Master's in Mechanical Engineering with a concentration in Mechatronics at Northeastern University.<br>I’m passionate about Robotics and Control Systems, and I enjoy modeling real-life problems and simulating them to explore practical solutions.<br>Right now, I’m diving deeper into various aspects of robotics, including **Perception, Sensor Fusion, and Motion Planning and integrating reinforcement learning to make the machines smarter**.<br>
+**🔗About me**<br>I'm currently pursuing my Master's in Mechanical Engineering with a concentration in Mechatronics at Northeastern University.<br>I’m passionate about Robotics and Control Systems, and I enjoy modeling real-life problems and simulating them to explore practical solutions.<br>Right now, I’m diving deeper into various aspects of robotics, including **Perception, Sensor Fusion, and Motion Planning and integrating Reinforcement Learning** to make the machines smarter.<br>
 I am open to new opportunities where I can apply my skills to solve complex and dextrous problems and drive innovation. I have a strong background in both Mechanical engineering as well as Robotics.<br><br>📣I am looking out for collaborators to work on implementing **Disruption Limited Planning with uncertainty in response from agents** related to Motion and Trajectory Planning.
+**🔗Currently working on**
+<ul>
+  <li></li>
+</ul>
 
 
 
 
-
-
-Fun fact:<br>I was a part of the team that built on Formula car. I actually worked on Brake subsystem and Powertrain design.
+🔗Fun fact:<br>I was a part of the team that built on Formula car. I actually worked on Brake subsystem and Powertrain design.
 
 
 
