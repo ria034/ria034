@@ -1,13 +1,21 @@
 # 💫 Hi there, I am Ria Mendes:
-**🔗About me**<br>I'm currently pursuing my Master's in Mechanical Engineering with a concentration in Mechatronics at Northeastern University.<br>I’m passionate about Robotics and Control Systems, and I enjoy modeling real-life problems and simulating them to explore practical solutions.<br>Right now, I’m diving deeper into various aspects of robotics, including **Perception, Sensor Fusion, and Motion Planning and integrating Reinforcement Learning** to make the machines smarter.<br>
+**🔗About me**<br>I'm currently pursuing my Master's in Mechanical Engineering with a concentration in Mechatronics at Northeastern University.<br>I’m passionate about Robotics and Control Systems, and I enjoy modeling real-life problems and simulating them to explore practical solutions.<br>Right now, I’m diving deeper into various aspects of robotics, including **Perception, Sensor Fusion, and Motion Planning** and integrating **Reinforcement Learning** to make the machines smarter.<br>
 I am open to new opportunities where I can apply my skills to solve complex and dextrous problems and drive innovation. I have a strong background in both Mechanical engineering as well as Robotics.<br><br>📣I am looking out for collaborators to work on implementing **Disruption Limited Planning with uncertainty in response from agents** related to Motion and Trajectory Planning.<br>
 **🔗Currently working on**
 <ul>
   <li><a href=https://github.com/ria034/AutoNav-Path-Planning-and-Control-for-Autonomous-Navigation.git>AutoNav:</a> This project focuses on designing and implementing a robust autonomous navigation stack by integrating advanced path planning algorithms like A* and RRT* along with real-time collision avoidance strategies. The system enables a mobile robot to autonomously navigate complex, dynamic environments while ensuring safe and efficient motion.</li>
-  <li><a href=https://github.com/ria034/DC-Motor-Speed-and-Position-Tracking-.git>Closed Loop Control of DC Motor</a>This project focuses on implementing a closed-loop control system to precisely track the speed and position of a DC motor while mitigating noise effects. The system incorporates a low-pass filter to smooth sensor data and ensure stable control, alongside real-time feedback from an encoder for accurate motion tracking.</li>
+  <li><a href=https://github.com/ria034/DC-Motor-Speed-and-Position-Tracking-.git>Closed Loop Control of DC Motor: </a>This project focuses on implementing a closed-loop control system to precisely track the speed and position of a DC motor while mitigating noise effects. The system incorporates a low-pass filter to smooth sensor data and ensure stable control, alongside real-time feedback from an encoder for accurate motion tracking.</li>
   
-</ul>
+</ul>><br>
 
+🔗**Education**
+<br><ul>
+<li> **Master of Science in Mechanical Engineering**<br>
+Concentration-**Mechatronics**<br>
+  Northeastern University,Boston, MA</li>
+<li> **Bachelors in Mechanical Engineering**<br>
+  University of Mumbai,India
+</li></ul>
 
 
 
