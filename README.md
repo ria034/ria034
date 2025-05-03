@@ -6,7 +6,7 @@ I am open to new opportunities where I can apply my skills to solve complex and 
   <li><a href=https://github.com/ria034/AutoNav-Path-Planning-and-Control-for-Autonomous-Navigation.git>AutoNav:</a> This project focuses on designing and implementing a robust autonomous navigation stack by integrating advanced path planning algorithms like A* and RRT* along with real-time collision avoidance strategies. The system enables a mobile robot to autonomously navigate complex, dynamic environments while ensuring safe and efficient motion.</li>
   <li><a href=https://github.com/ria034/DC-Motor-Speed-and-Position-Tracking-.git>Closed Loop Control of DC Motor: </a>This project focuses on implementing a closed-loop control system to precisely track the speed and position of a DC motor while mitigating noise effects. The system incorporates a low-pass filter to smooth sensor data and ensure stable control, alongside real-time feedback from an encoder for accurate motion tracking.</li>
   
-</ul>><br>
+</ul><br>
 
 🔗**Education**
 <ul>
@@ -23,7 +23,9 @@ I am open to new opportunities where I can apply my skills to solve complex and 
  <br>
  <b>🔗Professional Experience</b>
 <ul>
-   
+   <li>
+     <b>AITA Carriers Private Limited</b>
+   </li>
 </ul> 
 
 
