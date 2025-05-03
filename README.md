@@ -10,10 +10,10 @@ I am open to new opportunities where I can apply my skills to solve complex and 
 
 🔗**Education**
 <br><ul>
-<li> **Master of Science in Mechanical Engineering**<br>
-Concentration-**Mechatronics**<br>
+<li><b>Master of Science in Mechanical Engineering<b><br>
+Concentration-<b>Mechatronics<b><br>
   Northeastern University,Boston, MA</li>
-<li> **Bachelors in Mechanical Engineering**<br>
+<li> <b>Bachelors in Mechanical Engineering<b><br>
   University of Mumbai,India
 </li></ul>
 
