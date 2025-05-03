@@ -13,7 +13,7 @@
   <li><a href="https://github.com/ria034/DC-Motor-Speed-and-Position-Tracking-.git">Closed Loop Control of DC Motor: </a>This project focuses on implementing a closed-loop control system to precisely track the speed and position of a DC motor while mitigating noise effects. The system incorporates a low-pass filter to smooth sensor data and ensure stable control, alongside real-time feedback from an encoder for accurate motion tracking.</li>
 </ul><br>
 
-<b><u>🔗Education</u></b>
+<b><u>🧑‍🎓Education</u></b>
 <ul>
   <li>
     <b>Master of Science in Mechanical Engineering</b><br>
@@ -27,7 +27,7 @@
 </ul>
 <br>
 
-<b><u>🔗Professional Experience</u></b>
+<b><u>🧑‍💻Professional Experience</u></b>
 <ul>
    <li>
      <b>AITA Carriers Private Limited</b>
