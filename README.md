@@ -32,6 +32,9 @@
    <li>
      <b>AITA Carriers Private Limited</b>
    </li>
+  <li>
+    Texas Instruments 
+  </li>
 </ul>
 
 <p>🔗Interesting fact:<br>I was a part of the team that built a Formula car. I actually worked on Brake subsystem and Powertrain design.</p>
