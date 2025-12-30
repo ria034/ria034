@@ -9,6 +9,7 @@
 
 <b><u>🔗Currently working on</u></b>
 <ul>
+  <li><a href="https://github.com/ria034/RLRL-Augmented-D-Lite-for-Dynamic-environment.git">dd:</a> This project focuses on designing and implementing a robust autonomous navigation stack by integrating reinforcement learning to optimize the existing D_lite algo. </li>
   <li><a href="https://github.com/ria034/AutoNav-Path-Planning-and-Control-for-Autonomous-Navigation.git">AutoNav:</a> This project focuses on designing and implementing a robust autonomous navigation stack by integrating advanced path planning algorithms like A* and RRT* along with real-time collision avoidance strategies. The system enables a mobile robot to autonomously navigate complex, dynamic environments while ensuring safe and efficient motion.</li>
  
 </ul><br>
