@@ -1,0 +1,12 @@
+ROBOTICS PORTFOLIO — HOW TO OPEN
+
+1. Right-click the ZIP and choose Extract All.
+2. Open the extracted Robotics_Portfolio folder.
+3. Double-click index.html.
+4. Click a project card or its Explore link to open its detail page.
+
+IMPORTANT: Do NOT open index.html while browsing inside the ZIP in Windows Explorer.
+That creates a temporary path and relative project links can fail.
+
+Included project pages: prism.html, glimmer.html, trace.html, mpc.html, rl-d-lite.html.
+All pages must remain together in the same extracted folder.
